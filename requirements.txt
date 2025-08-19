@@ -1,3 +1,4 @@
+fastexcel
 ipython
 jupyterlab
 loguru
@@ -7,8 +8,10 @@ notebook
 numpy
 pandas
 pip
+polars
 pytest
 python-dotenv
+requests
 ruff
 scikit-learn
 tqdm
