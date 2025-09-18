@@ -2,3 +2,9 @@ site_name: Tennis Match Predictor
 # 
 site_author: Austin Dinh
 # 
+nav:  
+  - Home: index.md
+  - Setup: getting-started.md
+  - Features: features.md
+  - Changelog: changelog.md
+#
